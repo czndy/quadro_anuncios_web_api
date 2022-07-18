@@ -37,7 +37,7 @@ app.put('/users/:id', (req, res)=>{
 
 app.get('/', (req, res)=>{
     //return res.send('Hello World');
-    return res.json({message:'Hello World'});
+    return res.json({message:'Tá no ar a primeira versão da API do quadro de anúncios web!!!'});
 });
 
 //é a porta que será usada no projeto
