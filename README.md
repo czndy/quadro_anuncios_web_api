@@ -28,3 +28,9 @@ node src/server.js
 No navegador, abra localhost:5000
 
 Para parar o servidor, aperte no teclado Ctrl+C
+
+
+## Deploy feito em:
+https://dashboard.heroku.com/apps/quadro-anuncios-web-api/deploy/github
+## URL da API: 
+https://quadro-anuncios-web-api.herokuapp.com/
