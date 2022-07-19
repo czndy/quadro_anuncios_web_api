@@ -30,6 +30,8 @@ No navegador, abra localhost:5000
 Para parar o servidor, aperte no teclado Ctrl+C
 
 
+Obs.: Será feito automaticamente o deploy de qualquer alteração commitada pro backend.
+Por isso, o ideal seria se o commit só fosse feito com a aplicação em um estado estável.
 ## Deploy feito em:
 https://dashboard.heroku.com/apps/quadro-anuncios-web-api/deploy/github
 ## URL da API: 
