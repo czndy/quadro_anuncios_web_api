@@ -40,5 +40,9 @@ app.get('/', (req, res)=>{
     return res.json({message:'Tá no ar a primeira versão da API do quadro de anúncios web!!!'});
 });
 
+app.post('/users/:id', (req, res)=>{
+    return res.json({'O id selecionado foi':req.params.id});
+});
+
 //é a porta que será usada no projeto
 app.listen(port);
